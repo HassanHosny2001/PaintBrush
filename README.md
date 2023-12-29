@@ -1,6 +1,6 @@
 # PaintBrush Applet
 - Overview
-  -- PaintBrush Applet is a simple Java application that allows users to draw shapes and unleash their artistic flair. The applet provides a user-friendly interface for creating rectangles, ovals, lines, and more. Whether you want to create quick sketches or explore your creative side, PaintBrush is here for you.
+   * PaintBrush Applet is a simple Java application that allows users to draw shapes and unleash their artistic flair. The applet provides a user-friendly interface for creating rectangles, ovals, lines, and more. Whether you want to create quick sketches or explore your creative side, PaintBrush is here for you.
 
 Features
 Draw Shapes: Create rectangles, ovals, and lines effortlessly.
